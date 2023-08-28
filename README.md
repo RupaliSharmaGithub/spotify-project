@@ -8,4 +8,4 @@ Skills :
 •	CSS
 •	Bootstrap.
 Authors :
-https://github.com/RupaliSharmaGithub/internship.git
+https://github.com/RupaliSharmaGithub/spotify-project.git
